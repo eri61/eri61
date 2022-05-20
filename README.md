@@ -1,4 +1,7 @@
 ### 😺🐳☃️  eri no prof ☃️🐳😺
+$$
+H\Psi = \left(-\frac{\hbar^2}{2m}\nabla^2 + V(r)\right)\Psi
+$$
 
 <!--
 **eri61/eri61** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
