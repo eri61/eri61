@@ -1,5 +1,5 @@
 ### 😺🐳☃️  welcome to eri's profile ☃️🐳😺
-Belonging to department physics. Interested in IT-related.
+Belonging to department physics. Interested in IT-related technology.
 
 $$
 H\Psi = \left(-\frac{\hbar^2}{2m}\nabla^2 + V(r)\right)\Psi
