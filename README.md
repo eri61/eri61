@@ -5,7 +5,6 @@ $$
 H\Psi = \left(-\frac{\hbar^2}{2m}\nabla^2 + V(r)\right)\Psi
 $$
 
-No special reasons for introducing the shurodinger equation above.
 <!--
 **eri61/eri61** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
